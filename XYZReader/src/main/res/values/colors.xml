@@ -23,4 +23,7 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="brown700">#5D4037</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="redA400">#EF5350</color>
 </resources>
