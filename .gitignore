@@ -38,3 +38,6 @@ captures/
 
 # Keystore files
 *.jks
+.idea/libraries/Gradle__com_android_support_design_28_0_0.xml
+.idea/libraries/Gradle__com_android_support_transition_28_0_0.xml
+
